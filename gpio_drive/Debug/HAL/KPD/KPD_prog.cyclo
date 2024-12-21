@@ -1,0 +1,2 @@
+../HAL/KPD/KPD_prog.c:35:6:KPD_voidKPDInit	5
+../HAL/KPD/KPD_prog.c:63:6:KPD_u8GetKey	5

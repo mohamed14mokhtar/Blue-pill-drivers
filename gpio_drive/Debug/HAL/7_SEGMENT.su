@@ -1,0 +1,2 @@
+../HAL/7_SEGMENT.c:10:6:HAL_voidSetSegmentDirection	16	static
+../HAL/7_SEGMENT.c:18:6:HAL_voidSetSegmentValue	16	static

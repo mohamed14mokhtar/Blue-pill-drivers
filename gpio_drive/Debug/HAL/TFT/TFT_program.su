@@ -1,0 +1,9 @@
+../HAL/TFT/TFT_program.c:138:6:TFT_voidInit	8	static
+../HAL/TFT/TFT_program.c:165:6:TFT_voidDisplayImage	24	static
+../HAL/TFT/TFT_program.c:202:6:TFT_voidFillColor	24	static
+../HAL/TFT/TFT_program.c:240:6:TFT_voidDrawRect	32	static
+../HAL/TFT/TFT_program.c:280:6:TFT_voidDrawSQ	32	static
+../HAL/TFT/TFT_program.c:327:6:TFT_voidDrawLetter	24	static
+../HAL/TFT/TFT_program.c:396:6:TFT_voidDrawString	24	static
+../HAL/TFT/TFT_program.c:411:13:voidWriteCommand	16	static
+../HAL/TFT/TFT_program.c:417:13:voidWriteData	16	static

@@ -1,0 +1,8 @@
+../MCAL/SYSTICK/SYS_program.c:30:6:STK_voidInit	1
+../MCAL/SYSTICK/SYS_program.c:47:6:STK_delay	2
+../MCAL/SYSTICK/SYS_program.c:66:6:STK_voidRunFunOnceAfter	1
+../MCAL/SYSTICK/SYS_program.c:85:6:STK_voidRunFunPeriodicEvery	1
+../MCAL/SYSTICK/SYS_program.c:106:6:STK_voidStopTimer	1
+../MCAL/SYSTICK/SYS_program.c:114:5:STK_u32GetElapsedTime	1
+../MCAL/SYSTICK/SYS_program.c:127:5:STK_u32GetRemainingTime	1
+../MCAL/SYSTICK/SYS_program.c:140:6:SysTick_Handler	2
